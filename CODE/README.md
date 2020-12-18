@@ -23,3 +23,5 @@ https://www.hackster.io/michael-tang/programmable-music-box-1288ab
 7. Reboot the PocketBeagle, and the code will auto-run after 30 seconds of waiting! 
 8. Load in a hole punched paper in the music box, as demonstrated in the hackster.io above
 9. Press the button to start!
+
+Thanks to Erik Welsh for the ht16k33.py library included above!
