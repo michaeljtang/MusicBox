@@ -1,0 +1,11 @@
+﻿Qty,Manufacturer/MPN,Value             ,Device            ,Package           ,Parts/Designator,Description                                    
+1,Adafruit HT16K33,0.56_HEX_BACKPACK ,0.56_HEX_BACKPACK ,0.56_HEX_BACKPACK ,U2                                 ,"0.56"" LED HEX Backback - Adafruit HT16K33 -"
+3,MF-RES-0603-1K,1k                ,R_R0603           ,R0603             ,"R1, R2, R4","RESISTOR, American symbol"
+1,N/A,COPPER_PLATE      ,COPPER_PLATE      ,COPPER_PLATE      ,U$6,Copper plate to serve as a grounded surface
+6,N/A,FIDUCIAL          ,FIDUCIAL          ,FIDUCIAL_40MIL    ,"FUD1, FUD2, FUD3, FUD4, FUD5, FUD6",Fiducials to aid PCB manufacturing
+1,N/A,HEADER_PINS       ,HEADER_PINS       ,HEADER_PINS       ,U$5,Standard Header Pins to act as floating analog inputs
+4,N/A,MOUNTING_HOLE     ,MOUNTING_HOLE     ,MOUNTING_HOLE     ,"MGT1, MGT2, MGT3, MGT4",Chassis Mounting Hole w/GND connection ability
+1,BeagleBoard,POCKETBEAGLE      ,POCKETBEAGLE      ,POCKETBEAGLE      ,U$1,Microcontroller running 1GHz ARM Cortex-A8
+1,Gikfun LYSB01E38OS7K-ELECTRNCS,PUSH_BUTTON       ,PUSH_BUTTON       ,BUTTON_12.5MM     ,SW1                                                                               ,Standard Push Button
+1,Sparkfun ROB10189,SERVO_ROB10189    ,SERVO_ROB10190,SERVO-X1          ,U1                                                                                ,Continuous Rotation Servo (Micro-Size)
+3,Adafruit P1898,SPEAKER_P1898     ,SPEAKER_P1899,SPEAKER           ,"U$2, U$3, U$4",PCB Mount Mini Speaker
